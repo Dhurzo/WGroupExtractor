@@ -1,0 +1,9 @@
+[package]
+name = "extractor"
+version = "0.1.0"
+authors = ["Juan Angel Lopez <juanangel.lopezs@edu.uah.es>"]
+
+[dependencies]
+rusqlite = "0.10.1"
+libsqlite3-sys = "0.7.1"
+time = "0.1.36"
